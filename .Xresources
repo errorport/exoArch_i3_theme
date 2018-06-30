@@ -1,0 +1,54 @@
+URxvt*cursorColor:  #c900c1
+URxvt*borderColor:  #230a24
+*colorUL:           #2aa198
+
+! special
+*.foreground:   #b9b9b9
+*.background:   #230a24
+*.cursorColor:  #b9b9b9
+
+! red
+*.color2:       #aa0096
+*.color9:       #b100de
+
+! black
+*.color0:       #aa003b
+*.color8:       #de0047
+
+! green
+*.color2:       #00f0aa
+*.color10:      #36ffa6
+
+! yellow
+*.color3:       #0075c9
+*.color11:      #36baff
+
+! magenta
+*.color5:       #c900c1
+*.color13:      #b300e2
+
+! blue
+*.color4:       #00c9c9
+*.color12:      #00a52e
+
+! cyan
+*.color6:       #36baff
+*.color14:      #00c9c9
+
+! white
+*.color7:       #acc9ce
+*.color15:      #acc9ce
+
+URxvt.internalBorder: 10
+
+! URxvt.font: xft:LiterationMonoPowerline:MediumForPowerline:size=11:antialias=true
+! URxvt.imFont: xft:LiterationMonoPowerline:MediumForPowerline:size=11:antialias=true
+
+URxvt.font: xft:RobotoMonoForPowerline-Regular:size=11:antialias=true
+URxvt.imFont: xft:RobotoMonoForPowerline-Regular:size=11:antialias=true
+
+URxvt.scrollBar: false
+
+
+URxvt.transparent:	true
+URxvt.shading:		20
